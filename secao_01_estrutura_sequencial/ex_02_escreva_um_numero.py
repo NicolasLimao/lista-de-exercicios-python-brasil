@@ -14,3 +14,5 @@ Faça um Programa que peça um número e então mostre a mensagem O número info
 def escreva_um_numero():
     """Escreva aqui em baixo a sua solução"""
 
+x = int(input('Escreva um numero:'))
+print('O numero escrito foi {}'.format(x))
